@@ -1,0 +1,5 @@
+systemctl status bluetooth
+sudo systemctl start bluetooth
+sudo bluetoothctl
+connect CC:D2:E4:94:30:AB
+
