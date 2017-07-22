@@ -2,6 +2,6 @@ https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command
 https://ubuntuforums.org/showthread.php?t=952575
 http://linuxcommand.org/lc3_lts0020.php
 https://github.com/vishalallagi/SmokeDetectorPlus.git
-
+https://www.raspberrypi.org/learning/getting-started-with-git/worksheet/
 123
 456
