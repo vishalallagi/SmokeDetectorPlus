@@ -1,0 +1,10 @@
+1. Repositry will be created by owner
+2. Developers will fork the repositry that means a local copy of the repo will be created on developers account
+3. developer will clone it( copy the repo to your local device
+4. Developer will work on there local pc
+5. If you new files are creted use git add command
+6. Once changes are done or new files are added use commit so so that your files will be local version control
+7. To put the changes into your cloud account use PUSH
+8. Once Push has been done indicates changes are in developers account
+9. Now you can create pull request so that your change request can be submitted to owner
+10.Now owner decides to merge 
