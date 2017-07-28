@@ -2,6 +2,9 @@ https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command
 https://ubuntuforums.org/showthread.php?t=952575
 http://linuxcommand.org/lc3_lts0020.php
 https://github.com/vishalallagi/SmokeDetectorPlus.git
+https://learn.adafruit.com/bluefruit-le-python-library/usage
+https://dzone.com/articles/using-python-gatttool-and-bluetooth-low-energy-wit
+https://pypi.python.org/pypi/bleep/0.4.3
 
 123
 456
