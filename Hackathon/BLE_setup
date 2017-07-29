@@ -1,0 +1,41 @@
+Characteristic
+	/org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004d
+	f000aa65-0451-4000-b000-000000000000
+	Vendor specific
+Characteristic
+	/org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004f
+	f000aa66-0451-4000-b000-000000000000
+	Vendor specific
+
+[SensorTag 2.0:/service004c/char004f]# attribute-info 
+Characteristic - Vendor specific
+	UUID: f000aa66-0451-4000-b000-000000000000
+	Service: /org/bluez/hci0/dev_24_71_89_07_81_00/service004c
+	Flags: read
+	Flags: write
+[SensorTag 2.0:/service004c/char004f]# read
+Attempting to read /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004f
+[CHG] Attribute /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004f Value: 0x00
+  00                                               .               
+[SensorTag 2.0:/service004c/char004f]# write 1
+Attempting to write /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004f
+[SensorTag 2.0:/service004c/char004f]# read
+Attempting to read /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004f
+[CHG] Attribute /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004f Value: 0x01
+  01                                               .               
+i0/dev_24_71_89_07_81_00/service004c/char004d-attribute /org/bluez/hc 
+[SensorTag 2.0:/service004c/char004d]# read
+Attempting to read /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004d
+[CHG] Attribute /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004d Value: 0x7f
+  7f                                               .               
+[SensorTag 2.0:/service004c/char004d]# write 0
+Attempting to write /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004d
+[SensorTag 2.0:/service004c/char004d]# write 1
+Attempting to write /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004d
+[SensorTag 2.0:/service004c/char004d]# write 2
+Attempting to write /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004d
+[SensorTag 2.0:/service004c/char004d]# write 4
+Attempting to write /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004d
+[SensorTag 2.0:/service004c/char004d]# write 1
+Attempting to write /org/bluez/hci0/dev_24_71_89_07_81_00/service004c/char004d
+[SensorTag 2.0:/service004c/char004d]# 
