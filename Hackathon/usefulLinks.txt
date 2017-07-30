@@ -5,6 +5,5 @@ https://github.com/vishalallagi/SmokeDetectorPlus.git
 https://learn.adafruit.com/bluefruit-le-python-library/usage
 https://dzone.com/articles/using-python-gatttool-and-bluetooth-low-energy-wit
 https://pypi.python.org/pypi/bleep/0.4.3
+https://www.raspberrypi.org/learning/getting-started-with-git/worksheet/
 
-123
-456
